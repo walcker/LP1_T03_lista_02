@@ -4,15 +4,18 @@
 
 # Questões Finalizadas
 
-- [X] Negativos 5
-- [X] Soma Vizinhos
-- [X] Intervalos
-- [X] Fibonacci
 - [X] Minmax
-- [X] Inverter
-- [X] Filtragem
-- [X] Ponto em Retângulo 1
-- [X] Ponto em Retângulo 2
+- [X] Reverse
+- [X] Copy
+- [X] Find_if 
+- [X] Find
+- [X] All/any/none_of
+- [X] Equal
+- [ ] Unique
+- [X] Find
+- [X] Partition
+- [X] Sort
+- [ ] Rotate
 
 
 --------
